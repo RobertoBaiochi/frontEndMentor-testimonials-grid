@@ -27,7 +27,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Live Url : 
+- Live Url : https://robertobaiochi.github.io/frontEndMentor-testimonials-grid/
 
 ## My process
 
